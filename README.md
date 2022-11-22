@@ -90,7 +90,7 @@ void loop()
 
 ##Output of the simulation :
 ``````
-![output](.//robotics.1.png)
+![output](.//p1.png)
 
 RESULT:
 The given experiment has been done in TINKERCAD using ARDUINO.
