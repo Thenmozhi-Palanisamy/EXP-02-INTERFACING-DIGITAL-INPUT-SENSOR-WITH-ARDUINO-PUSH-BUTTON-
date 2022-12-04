@@ -88,7 +88,7 @@ void loop()
 
 
 
-##Output of the simulation :
+##Output of the simulation 
 ``````
 ![output](.//p1.png)
 
